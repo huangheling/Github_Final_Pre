@@ -31,5 +31,5 @@ final exam preparation
 ##링크
 
 구글[이것](http://www.google.com)을 클릭.  
-구글[이것](http://www.google.com "google홈페이지")을 클릭.
-lience[이것](./LICENSE)을 클릭.
+구글[이것](http://www.google.com "google홈페이지")을 클릭.  
+lience[이것](./LICENSE "github lience")을 클릭.  
