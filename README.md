@@ -43,6 +43,5 @@ lience[이것](./LICENSE "github lience")을 클릭.
 
 [구글]: http://www.google.com
 
-![구글 로고]
-(https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+![구글 로고](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
