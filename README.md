@@ -30,5 +30,5 @@ final exam preparation
 
 ##링크
 
-구글[이것](http://www.google.com)을 클릭.
-
+구글[이것](http://www.google.com)을 클릭.  
+구글[이것](http://www.google.com "google홈페이지")을 클릭.
