@@ -9,6 +9,11 @@ final exam preparation
 
 강의  
 =========  
+#코드
+   
+   def : ddd
+       ddd
+
 공부  
 
 ## 차례
