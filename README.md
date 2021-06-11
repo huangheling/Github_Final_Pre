@@ -9,6 +9,20 @@ final exam preparation
 
 강의  
 =========  
+#Python Code
+
+```python
+name = "heling"
+print(name)
+```
+
+```Java
+int a = 1;
+float b = 2;
+double c = a + b;
+```
+
+
 #코드
    
     def : ddd
