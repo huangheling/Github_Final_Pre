@@ -12,7 +12,10 @@ final exam preparation
 
 # Inline Code
 
-Python에서 `random`페키지에서 `randint` 함수를 사용하세요.
+[//]: # (Python에서 `random`페키지에서 `randint` 함수를 사용하세요.)  
+[//]: # "코드 이용하세요."  
+[comment]: # (commt)
+
 
 ----------------------------
 
