@@ -37,7 +37,7 @@ lience[이것](./LICENSE "github lience")을 클릭.
 구글[이것][구글]을 클릭.  
 구글 홈페이지는 http://www.google.com 
 
-list로 가면(list)[# 리스트]
+list로 가면[list](# 리스트)
 
 [구글]: http://www.google.com
 
